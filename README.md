@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @jamieroszel
+- 👀 I’m interested in learning more about software development.
+- 🌱 I’m currently learning full stack development using express.js.
+- 💞️ I’m looking to collaborate on anything that will allow me to continue honing my skillset!
+- 📫 You can email me @jamie.s.roszel@gmail.com or DM me on Twitter @jamieroszel.
+
+<!---
+jamieroszel/jamieroszel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
