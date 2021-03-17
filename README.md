@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamieroszel
+- 👋 Hi, I’m @jamieroszel, a web developer with an extensive background in education who combines experience in communicating abstract concepts with a knowledge of software development tools and frameworks to solve problems efficiently, bring ideas to life, and connect people. 
 - 👀 I’m interested in learning more about software development.
 - 🌱 I’m currently learning full stack development using express.js.
 - 💞️ I’m looking to collaborate on anything that will allow me to continue honing my skillset!
