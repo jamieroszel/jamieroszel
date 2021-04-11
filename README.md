@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development using express.js.
 - 💞️ I’m looking to collaborate on anything that will allow me to continue honing my skillset!
 - 📫 You can email me @jamie.s.roszel@gmail.com or DM me on Twitter @jamieroszel.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jamieroszel)](https://github.com/anuraghazra/github-readme-stats)
+[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?jamieroszel)](https://github.com/jamieroszel/github-readme-stats)
 
 
 
